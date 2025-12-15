@@ -11,5 +11,9 @@
 ## 설치 방법
 
 ```bash
-openskills install github:Opticmix/my-openskills/blender-glb-alignment
+# Public repo (저장소를 public으로 설정 필요)
+openskills install Opticmix/my-openskills
+
+# 로컬 경로에서 설치
+openskills install /path/to/my-openskills
 ```
